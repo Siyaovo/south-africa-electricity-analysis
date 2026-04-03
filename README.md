@@ -24,7 +24,7 @@ south-africa-electricity-analysis/
 │   └── ESK17390.csv                        # Eskom hourly system data (2021–2025)
 ├── reports/
 │   ├── south-africa-electricity-analysis.pdf   # Full academic report (PDF)
-│   ├── presentation_slides.pdf                 # Presentation slides (Deloitte)
+│   ├── presentation_slides.pdf                 # Presentation slides 
 │   └── report_source.md                        # Report source (Markdown)
 ├── requirements.txt
 └── README.md
@@ -148,6 +148,7 @@ brew install glpk
 ## Authors
 
 **Siyao Zhang** — M2 Sustainable Development Economics, Université Paris 1 Panthéon-Sorbonne
+
 **Bérangère Tichet** — M2 Sustainable Development Economics, Université Paris 1 Panthéon-Sorbonne
 
-*Supervised by Deloitte Advisory*
+*Supervised by Deloitte*
