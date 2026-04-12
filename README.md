@@ -25,7 +25,8 @@ south-africa-electricity-analysis/
 ├── reports/
 │   ├── south-africa-electricity-analysis.pdf   # Full academic report (PDF)
 │   ├── presentation_slides.pdf                 # Presentation slides 
-│   └── report_source.md                        # Report source (Markdown)
+│   └── report_source.md                     # Report source (Markdown)
+├── figures/
 ├── requirements.txt
 └── README.md
 ```
